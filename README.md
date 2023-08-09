@@ -24,5 +24,3 @@
      Contém ponteiros para as branches do repositório
 #### refs/tags
      Armazena as referências para as tags criadas no repositório.
-
-#alteração 
