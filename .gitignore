@@ -1,4 +1,8 @@
 *.txt
 local
 
+<<<<<<< HEAD
 local
+=======
+stash
+>>>>>>> ae0cf8c (stash)
